@@ -1,0 +1,15 @@
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week3\hw\hw1\Tekhnology\bin\Debug\net7.0\Tekhnology.exe
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week3\hw\hw1\Tekhnology\bin\Debug\net7.0\Tekhnology.deps.json
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week3\hw\hw1\Tekhnology\bin\Debug\net7.0\Tekhnology.runtimeconfig.json
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week3\hw\hw1\Tekhnology\bin\Debug\net7.0\Tekhnology.dll
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week3\hw\hw1\Tekhnology\bin\Debug\net7.0\Tekhnology.pdb
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week3\hw\hw1\Tekhnology\obj\Debug\net7.0\Tekhnology.csproj.AssemblyReference.cache
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week3\hw\hw1\Tekhnology\obj\Debug\net7.0\Tekhnology.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week3\hw\hw1\Tekhnology\obj\Debug\net7.0\Tekhnology.AssemblyInfoInputs.cache
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week3\hw\hw1\Tekhnology\obj\Debug\net7.0\Tekhnology.AssemblyInfo.cs
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week3\hw\hw1\Tekhnology\obj\Debug\net7.0\Tekhnology.csproj.CoreCompileInputs.cache
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week3\hw\hw1\Tekhnology\obj\Debug\net7.0\Tekhnology.dll
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week3\hw\hw1\Tekhnology\obj\Debug\net7.0\refint\Tekhnology.dll
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week3\hw\hw1\Tekhnology\obj\Debug\net7.0\Tekhnology.pdb
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week3\hw\hw1\Tekhnology\obj\Debug\net7.0\Tekhnology.genruntimeconfig.cache
+C:\Users\Shodmon\OneDrive\Рабочий стол\C#\week3\hw\hw1\Tekhnology\obj\Debug\net7.0\ref\Tekhnology.dll
